@@ -63,27 +63,8 @@ The pivot data used covers:
 
 ---
 
-## Tech Stack
 
-- **Chart.js 4.4.1** — all charts and visualizations
-- **HTML / CSS** — layout and dashboard structure
-- **Vanilla JavaScript** — data calculations and rendering
-- **CSV pivot data** — sourced from Excel pivot tables exported from the IBM dataset
 
----
-
-## Folder Structure
-
-```
-├── README.md
-├── data/
-│   ├── HR_DATA_Excel_Sheet2_.csv       # Pivot table data
-│   └── HR_DATA_Excel__1__DashBoard_.csv # Dashboard layout reference
-└── dashboard/
-    └── index.html                       # Main dashboard file
-```
-
----
 
 ## How to Run
 
